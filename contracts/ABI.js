@@ -186,8 +186,8 @@ const T3RN_ABI = [
     ],
   },
   {
-    CA_ARBT: '0x8D86c3573928CE125f9b2df59918c383aa2B514D',
-    CA_OPSP: '0xF221750e52aA080835d2957F2Eed0d5d7dDD8C38',
+    CA_ARBT: '0x208b047eEEeC3992259ea71f447f74B5e1a53985',
+    CA_OPSP: '0x208b047eEEeC3992259ea71f447f74B5e1a53985',
     RPC_ARBT: 'https://arbitrum-sepolia.blockpi.network/v1/rpc/public',
     RPC_OPSP: 'https://sepolia.optimism.io',
   },
